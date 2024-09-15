@@ -1,2 +1,3 @@
-# imersao-dev-google-gemini-alura
-Imersão Dev Google Gemini da Alura
+# imersao-dev-google-gemini
+
+Imersão Dev com Google Gemini da Alura.
