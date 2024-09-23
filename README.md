@@ -20,7 +20,7 @@
 
 <h2 id="about">Sobre</h2>
 
-Uma aplicação desenvolvida em HTML, CSS e JavaScript para pesquisar atletas olímpicas que foram destaque nas Olimpíadas de Paris em 2024, projeto codificado na Imersão Dev com Google Gemini da Alura.
+Uma aplicação desenvolvida em HTML, CSS e JavaScript para pesquisar atletas olímpicas que foram destaque nas Olimpíadas de Paris em 2024, projeto realizado na Imersão Dev com Google Gemini da Alura.
 
 <h2 id="preview">Preview</h2>
 
