@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/img/nlw-journey.png">
+  <img src="./assets/img/imersao-dev-google-gemini.webp">
   <h1>Imersão Dev Google Gemini</h1>
   <p>Um projeto desenvolvido durante a Imersão Dev com Google Gemini da Alura.</p>
   <img src="https://img.shields.io/github/languages/count/udanielnogueira/imersao-dev-google-gemini">
