@@ -15,7 +15,6 @@
 - [Preview](#preview)
 - [Tecnologias](#built-with)
 - [Funcionalidades](#key-features)
-- [Deploy](#deploy)
 - [Destaques](#highlights)
 - [Meu contato](#contact)
 
