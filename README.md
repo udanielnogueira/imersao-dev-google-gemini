@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="./assets/img/imersao-dev-google-gemini.webp">
+  <img src="./img/imersao-dev-google-gemini.webp">
   <h1>Imersão Dev Google Gemini</h1>
-  <p>Um projeto desenvolvido durante a Imersão Dev com Google Gemini da Alura.</p>
-  <img src="https://img.shields.io/github/languages/count/udanielnogueira/imersao-dev-google-gemini">
+   <img src="https://img.shields.io/github/languages/count/udanielnogueira/imersao-dev-google-gemini">
   <img src="https://img.shields.io/github/languages/top/udanielnogueira/imersao-dev-google-gemini">
   <img src="https://img.shields.io/github/languages/code-size/udanielnogueira/imersao-dev-google-gemini">
   <img src="https://img.shields.io/github/last-commit/udanielnogueira/imersao-dev-google-gemini">
   <img src="https://img.shields.io/badge/responsive-yes-ff69b4">
+  <p>Um projeto desenvolvido durante a Imersão Dev com Google Gemini da Alura.</p>
 </div>
 
 ## Sumário
@@ -26,11 +26,11 @@ Uma aplicação desenvolvida em HTML, CSS e JavaScript para pesquisar atletas ol
 
 Desktop
 
-![Desktop Preview](./assets/img/desktop-sreenshot.png "Desktop Preview")
+![Desktop Preview](./img/desktop-sreenshot.png "Desktop Preview")
 
 Mobile
 
-<img src="./assets/img/mobile-screenshot.png">
+<img src="./img/mobile-screenshot.png">
 
 <h2 id="built-with">Tecnologias</h2>
 
